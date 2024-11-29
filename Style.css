@@ -1,0 +1,24 @@
+
+
+\*styling text\*
+
+h1{
+    font-size: 400;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    font-style: italic 
+}
+   
+
+
+
+
+
+/*
+h1, 
+h2,
+h3,
+h4,
+h5{
+    color: #1098ad;
+} /*
